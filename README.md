@@ -1,2 +1,1 @@
-# DMV
-Data Visualization and Management 
+# Data_management_and_visualisation
